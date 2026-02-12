@@ -1,0 +1,1 @@
+case class Producto(idProducto: String, nombre: String, tasaInteres: Double)

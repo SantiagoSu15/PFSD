@@ -1,0 +1,1 @@
+case class Usuario(id: String, nombre: String,  ciudad: String, productos: List[String])

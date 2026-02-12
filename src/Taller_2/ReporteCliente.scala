@@ -1,0 +1,1 @@
+case class ReporteCliente(nombreCliente: String, saldoTotal: Double, alertaRiesgo: Boolean)
