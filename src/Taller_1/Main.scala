@@ -1,4 +1,4 @@
-package Transaccion
+package Taller_1
 
 
 object Main {

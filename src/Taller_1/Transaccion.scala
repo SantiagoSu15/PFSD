@@ -1,4 +1,4 @@
-package Transaccion
+package Taller_1
 
 case class Transaccion(id: Int,cuentaId: Int, monto:Double,tipo: String  ) {
 
